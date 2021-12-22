@@ -1,4 +1,4 @@
-<img style="width=300px;" src="logo.png">
+<img style="width=300px;" src="./logo.png">
 <details style="margin-top: 20px;">
   <summary>pt-br🇧🇷 </summary>
   <ul>
